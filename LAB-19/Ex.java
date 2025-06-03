@@ -15,7 +15,7 @@ class Car extends Vehicle {
 // Multilevel Inheritance: ElectricCar inherits from Car
 class ElectricCar extends Car {
     void charge() {
-        System.out.println("ElectrcCar is charging");
+        System.out.println("ElectricCar is charging");
     }
 }
 
